@@ -1,0 +1,21 @@
+:root{
+    --c1 : #DE6449;
+    --c2:#791E94;
+    --c3:#FFFFF2;
+    --c4:#41D3BD;
+}
+*{
+    margin:0;
+    padding:0;
+    background:none;
+    outline:none;
+    border:none;
+    box-sizing:inherit;
+}
+html{
+    font-size:62.5%; /*= 10px*/
+}
+body{
+    box-sizing:border-box;
+    padding:5rem;
+}
